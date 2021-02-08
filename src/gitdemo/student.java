@@ -9,6 +9,7 @@ public class student {
 		// TODO Auto-generated method stub
 		System.out.println("Hello world");
 		
+		int x;
 	}
 
 }
